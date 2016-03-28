@@ -1,0 +1,207 @@
+header {
+
+}
+
+.delicious {
+  font-family: 'Lobster Two', cursive;
+  font-style: italic;
+  font-size: 185%;
+  margin-left: 55px;
+  margin-top: -50px;
+}
+
+.best-food-blog {
+  font-family: serif;
+  font-style: normal;
+  font-size: 30%;
+  margin-left: 0px;
+}
+
+.social-icons {
+margin-left: 660px;
+margin-top: -50px;
+width: 901px;
+}
+
+.further-right {
+  margin-left: 10px;
+}
+
+.Chocolate-Pizza {
+  font-family: arial;
+  letter-spacing: -1px;
+  font-style: bold;
+}
+
+.gray-shade {
+  background-image: url(img/border-img.png);
+  width: 901px;
+
+}
+
+.print-icon {
+  margin-left: 800px;
+  margin-top: -20px;
+  color: gray;
+}
+
+.posted {
+  font-family: serif;
+  font-style: normal;
+  font-size: 50%;
+  margin-left: 0px;
+  color: gray;
+  margin-top: -25px;
+}
+
+.main-text {
+  text-indent: 20px;
+  width: 901px;
+  color: gray;
+}
+
+.ingredient-list {
+  background-image: url(img/list-bg.png);
+  width: 901px;
+  box-shadow: 0px 5px 5px #888888;
+  margin-bottom: 25px;
+  
+}
+
+#checkboxes p {
+margin: 0;
+list-style: none;
+float: left;
+}
+
+.move-right {
+ padding-left:100px;
+}
+
+.move-more-right {
+ padding-left: 300px;
+}
+
+.column-one {
+ float: left;
+ width: 520px;
+ margin: 10px;}
+}
+
+.column-two {
+ float: left;
+ width: 300px;
+ margin: 10px;
+}
+
+.chopped {
+ text-indent: 20px;
+}
+
+.checkbox-image {
+ width: 15px;
+ height: 15px;
+ border-radius: 15%;
+}
+
+.line-through {
+  text-decoration: line-through;
+}
+
+.Vanessa-pic {
+  margin-top: 25px;
+}
+
+.Vanessa-name {
+  font-size: 125%;
+  font-style: bold;
+  margin-left: 80px;
+  margin-top: -70px;
+}
+
+.Vanessa-text {
+  margin-top: 10px;
+  margin-left: 80px;
+  margin-top: -35px;
+  color: gray;
+  font-size: 90%;
+  letter-spacing: 1px;
+}
+
+button {
+  color: white;
+  background-color: #B26D5B;
+  border: none;
+  height: 40px;
+  width: 125px;
+  margin-left: 700px;
+}
+
+.bottom-line {
+margin-left: 450px;
+margin-right: 450px;
+margin-top: 20px;
+border: 10px;
+border-color: white;
+}
+
+footer {
+  margin-left: 380px;
+  color: grey;
+  font-size: 75%;
+  margin-top: 20px;
+}
+
+.another-indent {
+  text-indent: 20px;
+}
+
+hr {
+  margin-top: -20px;
+  margin-left: -0px;
+  width: 901px;
+}
+
+.mascarpone {
+ padding-top: -5px;
+}
+
+.pink {
+ margin-top: -5px;
+}
+
+.figs {
+ margin-top: -5px;
+}
+
+.sugar {
+ margin-top: -5px;
+}
+
+.water {
+ margin-top: -5px;
+}
+
+.heavy {
+ margin-top: 10px;
+}
+
+.gran {
+ margin-top: -5px;
+}
+
+.egg {
+ margin-top: -5px;
+}
+
+.lemon {
+ margin-top: -2px;
+}
+
+.butter {
+  margin-top: -5px;
+}
+
+.pecan {
+ margin-top: -5px;
+}
